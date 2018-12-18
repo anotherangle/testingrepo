@@ -1,2 +1,1 @@
-I will be having a conflict now.
-We need to solve it.
+We will be having a conflict now.
